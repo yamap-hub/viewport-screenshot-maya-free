@@ -1,1 +1,0 @@
-# viewport-screenshot-maya-free
