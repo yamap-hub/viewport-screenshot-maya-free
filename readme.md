@@ -75,7 +75,7 @@ vssf.install_shelf_button()
 本ツールは [MIT License](LICENSE) のもとで公開されています。商用・非商用問わずご利用いただけます。
 
 ---
-## 💎 MAYA版　Viewport Screenshot（製品版）
+## 💎 製品版　Viewport Screenshot
 不要なUIの自動非表示、クリップボード即時コピー（Ctrl+V）、全パネル撮影に対応バージョンをBOOTHにて公開中。
 
 👉 **[BOOTHで見る（Viewport Screenshot Pro）](https://yworks.booth.pm/items/9112055)**
