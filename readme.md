@@ -5,6 +5,13 @@ Autodesk Mayaの3Dビューポートを、メニューバーやHUD、グリッ�
 作業進捗の共有、SNS投稿、ポートフォリオ用の画像書き出しを手間なくワンクリックで行えます。
 
 ---
+## 💎 MAYA版　Viewport Screenshot（製品版）
+不要なUIの自動非表示、クリップボード即時コピー（Ctrl+V）、全パネル撮影に対応バージョンをBOOTHにて公開中。
+
+👉 **[BOOTHで見る（Viewport Screenshot Pro）](https://yworks.booth.pm/items/9112055)**
+---
+
+---
 
 ## 主な特徴
 
