@@ -1,5 +1,8 @@
 # Viewport Screenshot for Maya (Free)
 
+> ⚡ **Looking for the Pro Version?**  
+> Check out the Pro features on [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm) or [BOOTH](https://yworks.booth.pm/).
+
 Autodesk Mayaの3Dビューポートを、メニューバーやHUD、グリッドを一時的に自動非表示にした状態で綺麗に1枚キャプチャ・保存できるスクリプトツール（無料・お試し版）です。
 
 作業進捗の共有、SNS投稿、ポートフォリオ用の画像書き出しを手間なくワンクリックで行えます。
