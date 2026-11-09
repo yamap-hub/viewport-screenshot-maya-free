@@ -70,4 +70,4 @@ Mayaのビューポート画面をワンクリックでクリップボードに�
 多機能版（Pro版）やBlender対応版、その他の制作効率化ツールは各ストアにて公開・販売しています。
 
 - **BOOTH:** [https://yworks.booth.pm/](https://yworks.booth.pm/)
-- **Gumroad:** [https://gumroad.com/](https://mashitaya.gumroad.com/l/ysgtzm)
+- **Gumroad:** [https://gumroad.com/]([https://mashitaya.gumroad.com/l/ysgtzm](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH))
