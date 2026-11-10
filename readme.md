@@ -6,7 +6,7 @@ No saving temporary image files, no manual cropping—just hit **Ctrl + V** anyw
 
 > ⚡ **Looking for High-Res (2x/4K), Alpha Transparency & Batch Capture?**
 >
-> Check out the **Pro Edition** on [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm) or [BOOTH](https://yworks.booth.pm/).
+> Check out the **Pro Edition** on [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH) or [BOOTH](https://yworks.booth.pm/).
 
 ## ⚡ Features (Free Edition)
 
@@ -58,7 +58,7 @@ Since the Free Edition is provided as a standalone script (`viewport_screenshot_
 | Custom Aspect Ratio Framing | ❌ | ✅ |
 | Lifetime Updates & Priority Support | Community | ✅ |
 
-👉 **Upgrade to Pro:** [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm) | [BOOTH (国内向け)](https://yworks.booth.pm/)
+👉 **Upgrade to Pro:** [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH) | [BOOTH (国内向け)](https://yworks.booth.pm/)
 
 ## 📄 License & Terms
 
@@ -75,7 +75,7 @@ Mayaのビューポート画面を**ワンクリックで直接クリップボ�
 
 > ⚡ **4K/2倍解像度キャプチャ・背景透過（アルファ切り抜き）・ワンクリック導入が必要な方へ**
 >
-> 多機能な **Pro版** は [BOOTH](https://yworks.booth.pm/) または [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm) にて公開中です。
+> 多機能な **Pro版** は [BOOTH](https://yworks.booth.pm/) または [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH) にて公開中です。
 
 ### ⚡ 主な特徴（無料版）
 
@@ -127,7 +127,7 @@ Mayaのビューポート画面を**ワンクリックで直接クリップボ�
 | アスペクト比・レンダリング枠固定 | ❌ | ✅ |
 | アップデート＆優先サポート | コミュニティ | ✅ 優先対応 |
 
-👉 **Pro版はこちら:** [BOOTH（国内向け）](https://yworks.booth.pm/) | [Gumroad（海外向け）](https://mashitaya.gumroad.com/l/ysgtzm)
+👉 **Pro版はこちら:** [BOOTH（国内向け）](https://yworks.booth.pm/) | [Gumroad（海外向け）](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH)
 
 ### 📄 ライセンス
 
