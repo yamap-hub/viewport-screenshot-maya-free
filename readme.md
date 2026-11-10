@@ -27,7 +27,7 @@ No saving temporary files, no cropping—just hit **Ctrl + V** anywhere (Discord
 ## 📄 License & Commercial Version
 
 - **License:** Free for personal and commercial use. Redistribution or reselling of this script is prohibited.
-- **Commercial / Pro Version:** Check out our store and full-featured tools on [BOOTH](https://yworks.booth.pm/) / [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm).
+- **Commercial / Pro Version:** Check out our store and full-featured tools on [BOOTH](https://yworks.booth.pm/) / [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH).
 
 ---
 ---
