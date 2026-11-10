@@ -4,9 +4,7 @@ A lightweight Maya Python tool to capture the current viewport directly to your 
 
 No saving temporary image files, no manual cropping—just hit **Ctrl + V** anywhere (Discord, Slack, Notion, PureRef, Photoshop, etc.).
 
-> ⚡ **Looking for High-Res (2x/4K), Alpha Transparency & Batch Capture?**
->
-> Check out the **Pro Edition** on [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH) or [BOOTH](https://yworks.booth.pm/items/9112055).
+Check out the **Pro Edition** on [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH) or [BOOTH](https://yworks.booth.pm/items/9112055).
 
 ## ⚡ Features (Free Edition)
 
@@ -73,8 +71,6 @@ Mayaのビューポート画面を**ワンクリックで直接クリップボ�
 
 一時ファイルの保存やキャプチャ画像のトリミング作業をすることなく、そのまま Discord / Slack / Notion / PureRef / Photoshop 等へ **`Ctrl + V`** で即座に貼り付け可能です。
 
-> ⚡ **4K/2倍解像度キャプチャ・背景透過（アルファ切り抜き）・ワンクリック導入が必要な方へ**
->
 > 多機能な **Pro版** は [BOOTH](https://yworks.booth.pm/items/9112055) または [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH) にて公開中です。
 
 ### ⚡ 主な特徴（無料版）
