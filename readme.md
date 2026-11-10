@@ -18,7 +18,7 @@ No saving temporary files, no cropping—just hit **Ctrl + V** anywhere (Discord
 ## 🚀 Installation & Usage
 
 1. Download the repository (`.zip` or clone).
-2. Drag and drop `install.mel` into the Maya viewport.
+2. Drag and drop `install_VPS_maya_free.mel` into the Maya viewport.
 3. A new button will appear on your current shelf.
 4. Click the shelf icon to copy your viewport, then paste (`Ctrl + V`) into your chat or documentation app.
 
@@ -52,7 +52,7 @@ Mayaのビューポート画面をワンクリックでクリップボードに�
 ### 🚀 インストールと使い方
 
 1. 本リポジトリのZIPをダウンロード（またはクローン）して解凍します。
-2. `install.mel` をMayaのビューポート上にドラッグ＆ドロップします。
+2. `install_VPS_maya_free.mel` をMayaのビューポート上にドラッグ＆ドロップします。
 3. 現在のシェルフに専用ボタンが追加されます。
 4. シェルフアイコンをクリックするとビューポートがコピーされます。任意のアプリで `Ctrl + V` を押して貼り付けてください。
 
