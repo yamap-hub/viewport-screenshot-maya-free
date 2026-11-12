@@ -1,5 +1,31 @@
 # Viewport Screenshot to Clipboard for Maya (Free Edition)
 
+![Viewport Screenshot Transparent PNG Demo](demo_anim_maya_PNGTP.gif)
+
+> **Capture clean Maya viewports directly to your clipboard (`Ctrl+V`) — no manual UI hiding or cropping required.**
+
+### ✨ Highlights
+* **One-Click Clean Capture:** Automatically hides grids, joints, locators, curves, and HUD elements while capturing.
+* **Instant Clipboard Copy:** Paste straight into Discord, Slack, Notion, PureRef, or Photoshop (`Ctrl+V`).
+* **Transparent Background (Alpha PNG) *(Pro)*:** Capture clean cutouts without gray backgrounds or grids.
+
+---
+
+### 🚀 Free vs. Pro Version
+
+| Feature | Free (This Repo) | Pro Version |
+| :--- | :---: | :---: |
+| One-click viewport capture | ✅ | ✅ |
+| Auto-hide overlays / HUD / gizmos | ✅ | ✅ |
+| Direct copy to clipboard (`Ctrl+V`) | ✅ | ✅ |
+| **Transparent Background (Alpha PNG)** | — | ✅ |
+| **Custom file naming, prefixes & sequence numbers** | — | ✅ |
+| **Capture specific panel / Capture under mouse** | — | ✅ |
+
+🔥 **Launch Sale Active (until Nov 29):**
+* **Gumroad (Global / EN):** https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH
+* **BOOTH (Japan / JP):** https://yworks.booth.pm/items/9112055
+
 A lightweight Maya Python tool to capture the current viewport directly to your OS clipboard with a single click.
 
 No saving temporary image files, no manual cropping—just hit **Ctrl + V** anywhere (Discord, Slack, Notion, PureRef, Photoshop, etc.).
