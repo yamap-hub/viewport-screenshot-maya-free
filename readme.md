@@ -1,6 +1,6 @@
 # Viewport Screenshot to Clipboard for Maya (Free Edition)
 
-![Viewport Screenshot Transparent PNG Demo](demo_anim_maya_PNGTP.gif)
+![Viewport Screenshot Pro v1.2 Demo](MAYA_all_demo_2.gif)
 
 > **Capture clean Maya viewports directly to your clipboard (`Ctrl+V`) — no manual UI hiding or cropping required.**
 
@@ -8,7 +8,7 @@ A lightweight Maya Python tool to capture the current viewport directly to your 
 No saving temporary image files, no manual cropping—just hit **Ctrl + V** anywhere (Discord, Slack, Notion, PureRef, Photoshop, etc.).
 
 🔥 **Launch Sale Active (until Nov 29):**
-Check out the **Pro Edition** (with **Transparent Background / Alpha PNG** capture) on [Gumroad (Global)](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH) or [BOOTH (Japan)](https://yworks.booth.pm/items/9112055).
+Check out the **Pro Edition (v1.2)**—now featuring **Real-Time 3D Viewport GIF Recording**, **Multi-Panel Composite**, **Full Window Capture**, and **Transparent Background (Alpha PNG)**—on [Gumroad (Global)](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH) or [BOOTH (Japan)](https://yworks.booth.pm/items/9112055).
 
 ---
 
@@ -52,14 +52,17 @@ Since the Free Edition is provided as a standalone script (`viewport_screenshot_
 
 ## ⚖️ Free vs. Pro Comparison
 
-| Feature | Free Edition | Pro Edition |
+| Feature | Free Edition | Pro Edition (v1.2) |
 | :--- | :---: | :---: |
 | One-Click Clipboard Copy (`Ctrl+V`) | ✅ | ✅ |
 | Clean Viewport (Hide UI/Gizmos) | ✅ | ✅ |
+| **Real-Time 3D Viewport GIF Recording (Cursor & Timer)** | ❌ | ✅ |
+| **Multi-Panel Composite & Full Maya Window Capture** | ❌ | ✅ |
 | **Transparent Background (Alpha PNG Cutout)** | ❌ | ✅ |
+| **Capture Specific Panel / Capture Under Mouse (3s)** | ❌ | ✅ |
+| **Custom File Naming, Timestamps, Sequences & Latest-Only Mode** | ❌ | ✅ |
+| **Bilingual UI (English / Japanese)** | ❌ | ✅ |
 | Drag-and-Drop `.mel` One-Click Installer | ❌ (Manual setup) | ✅ Included |
-| High-Res Multiplier (1x / 2x / 4K) | ❌ | ✅ |
-| Custom Aspect Ratio Framing | ❌ | ✅ |
 | Lifetime Updates & Priority Support | Community | ✅ |
 
 👉 **Upgrade to Pro (Sale until Nov 29):** [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH) | [BOOTH (国内向け)](https://yworks.booth.pm/items/9112055)
@@ -78,7 +81,7 @@ Mayaのビューポート画面を**ワンクリックで直接クリップボ�
 一時ファイルの保存やキャプチャ画像のトリミング作業をすることなく、そのまま Discord / Slack / Notion / PureRef / Photoshop 等へ **`Ctrl + V`** で即座に貼り付け可能です。
 
 > 🔥 **11/29までローンチセール実施中：**
-> **背景透過（透明PNG）キャプチャ**に対応した高機能な **Pro版** は [BOOTH](https://yworks.booth.pm/items/9112055) または [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH) にて公開中です。
+> **3Dビュー作業のリアルタイムGIF録画**・**複数パネル組み合わせ合成**・**Mayaウィンドウ全体撮影**・**背景透過（透明PNG）キャプチャ**に対応した大型アップデート版 **Pro Edition (v1.2)** は [BOOTH](https://yworks.booth.pm/items/9112055) または [Gumroad](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH) にて公開中です。
 
 ### ⚡ 主な特徴（無料版）
 
@@ -120,14 +123,17 @@ Mayaのビューポート画面を**ワンクリックで直接クリップボ�
 
 ### ⚖️ 無料版とPro版の違い
 
-| 機能 | 無料版 (Free) | Pro版 (Gumroad / BOOTH) |
+| 機能 | 無料版 (Free) | Pro版 v1.2 (Gumroad / BOOTH) |
 | :--- | :---: | :---: |
 | ワンクリック・クリップボードコピー (`Ctrl+V`) | ✅ | ✅ |
 | UI/ギズモの自動非表示キャプチャ | ✅ | ✅ |
+| **3Dビュー作業のリアルタイムGIF録画（カーソル・タイマー対応）** | ❌ | ✅ |
+| **複数パネルの組み合わせ合成 ＆ Mayaウィンドウ全体撮影** | ❌ | ✅ |
 | **背景透過（透明PNG切り抜き）キャプチャ** | ❌ | ✅ |
+| **特定パネル指定 ＆ マウスカーソル下3秒撮影** | ❌ | ✅ |
+| **カスタム命名・日時・連番・最新1枚維持オプション** | ❌ | ✅ |
+| **日英UI切替（日本語 / English）** | ❌ | ✅ |
 | ドラッグ＆ドロップ（.mel）簡単インストーラー | ❌（手動登録） | ✅ 同梱 |
-| 高解像度スケーリング（1x / 2x / 4K） | ❌ | ✅ |
-| アスペクト比・レンダリング枠固定 | ❌ | ✅ |
 | アップデート＆優先サポート | コミュニティ | ✅ 優先対応 |
 
 👉 **Pro版はこちら（11/29までセール中）:** [BOOTH（国内向け）](https://yworks.booth.pm/items/9112055) | [Gumroad（海外向け）](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH)
