@@ -1,6 +1,6 @@
 # Viewport Screenshot to Clipboard for Maya (Free Edition)
 
-![Viewport Screenshot Pro v1.2 Demo](MAYA_all_demo_2.gif)
+![Viewport Screenshot Pro v1.2 Demo](MAYA_all_demo.gif)
 
 > **Capture clean Maya viewports directly to your clipboard (`Ctrl+V`) — no manual UI hiding or cropping required.**
 
