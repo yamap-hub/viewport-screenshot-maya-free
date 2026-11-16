@@ -2,13 +2,18 @@
 
 ![Viewport Screenshot Pro v1.2 Demo](MAYA_all_demo.gif)
 
-> **Capture clean Maya viewports directly to your clipboard (`Ctrl+V`) — no manual UI hiding or cropping required.**
+[![Get Pro on Gumroad](https://img.shields.io/badge/Get_Pro_v1.2-Gumroad_(Global)-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black)](YOUR_GUMROAD_URL)
+[![Get Pro on BOOTH](https://img.shields.io/badge/Get_Pro_v1.2-BOOTH_(日本語)-fc4d50?style=for-the-badge)](YOUR_BOOTH_URL)
+![Maya Version](https://img.shields.io/badge/Autodesk_Maya-2022--2026-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
-A lightweight Maya Python tool to capture the current viewport directly to your OS clipboard with a single click.
-No saving temporary image files, no manual cropping—just hit **Ctrl + V** anywhere (Discord, Slack, Notion, PureRef, Photoshop, etc.).
-
-🔥 **Launch Sale Active (until Nov 29):**
-Check out the **Pro Edition (v1.2)**—now featuring **Real-Time 3D Viewport GIF Recording**, **Multi-Panel Composite**, **Full Window Capture**, and **Transparent Background (Alpha PNG)**—on [Gumroad (Global)](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH) or [BOOTH (Japan)](https://yworks.booth.pm/items/9112055).
+> [!IMPORTANT]
+> **🚀 Viewport Screenshot Pro v1.2 is Out Now! (Launch Sale ends Nov 29)**
+> Upgrade to **VPS Pro** to unlock the full daily capture & sharing workflow inside Maya:
+> - **Real-Time 3D Viewport GIF Recording:** Record live viewport orbiting, modeling, or animation directly to a lightweight GIF (no external screen recorder required).
+> - **Multi-Panel Composite & Full Window Capture:** Combine multiple panels (e.g., *Viewport + Outliner / Hypershade / Node Editor*) into a single clean image.
+> - **Advanced Workflow Presets & Batch Tools:** Save custom capture presets, auto-hide UI/grids, and copy transparent PNGs straight to your clipboard.
+>
+> 👉 **[Download VPS Pro on Gumroad (Global)](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH)** | **[BOOTHで購入する (国内向け)](https://yworks.booth.pm/items/9112055)** *(See [Free vs. Pro Comparison](#-free-vs-pro-comparison) below)*
 
 ---
 
