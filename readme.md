@@ -2,8 +2,8 @@
 
 ![Viewport Screenshot Pro v1.2 Demo](MAYA_all_demo.gif)
 
-[![Get Pro on Gumroad](https://img.shields.io/badge/Get_Pro_v1.2-Gumroad_(Global)-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black)](YOUR_GUMROAD_URL)
-[![Get Pro on BOOTH](https://img.shields.io/badge/Get_Pro_v1.2-BOOTH_(日本語)-fc4d50?style=for-the-badge)](YOUR_BOOTH_URL)
+[![Get Pro on Gumroad](https://img.shields.io/badge/Get_Pro_v1.2-Gumroad_(Global)-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black)](https://mashitaya.gumroad.com/l/ysgtzm/LAUNCH)
+[![Get Pro on BOOTH](https://img.shields.io/badge/Get_Pro_v1.2-BOOTH_(日本語)-fc4d50?style=for-the-badge)](https://yworks.booth.pm/items/9112055)
 ![Maya Version](https://img.shields.io/badge/Autodesk_Maya-2022--2026-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 
 > [!IMPORTANT]
